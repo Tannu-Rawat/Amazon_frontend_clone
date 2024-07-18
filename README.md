@@ -1,2 +1,2 @@
 # Amazon_frontend_clone
-Amazon  Clone using HTML and CSS
+This is an Amazon Website clone using frontend technologies HTML and CSS.
